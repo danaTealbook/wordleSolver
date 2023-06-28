@@ -1,5 +1,7 @@
 # wordleSolver
 
+Link to the game: https://www.nytimes.com/games/wordle/index.html
+
 To run, type on console:
 node wordleSolver.js
 
